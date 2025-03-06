@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vitor Eltz, 17, and I´m currently studying computer science
+- 👋 Hi, I’m Vitor Eltz, 18, and I´m currently studying computer science
 - 👀 I’m interested in learning how to become a web developer
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: vitormoraeseltz@gmail.com
